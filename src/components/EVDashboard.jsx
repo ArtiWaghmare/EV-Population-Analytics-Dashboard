@@ -12,7 +12,7 @@ import {
   Cell,
   LineChart,
   Line,
-  ResponsiveContainer
+  
 } from "recharts";
 
 const Card = ({ children, title }) => (
