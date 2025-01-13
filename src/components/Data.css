@@ -1,0 +1,21 @@
+.heading{
+    color: white;
+    text-align: center;
+    background-color: rgb(75, 75, 161);
+    padding: 10px;
+}
+.key-style{
+    margin:20px  100px ;
+}
+.card-two{
+    display: flex;
+    margin: 10px 40px; 
+    gap: 30px;
+}
+.Crads-s{
+    height: 60px;
+    width: 30px;
+}
+.Manufacturer{
+    margin: auto 40px;    
+}
